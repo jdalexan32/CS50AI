@@ -1,0 +1,15 @@
+**/__pycache__/
+
+# ignore files in degrees directory
+degrees/large/
+degrees/small/
+/degrees/degrees-original.py
+
+# ignore files in crossword directory
+generate - Copy.py
+
+# ignore files in shopping directory
+shopping - Copy.py
+
+
+

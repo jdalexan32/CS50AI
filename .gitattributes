@@ -1,0 +1,3 @@
+# confiure git so that any time a file is checked out it is with Line Feed normalization
+# could also limit to scripts with *.sh
+* text eol=lf
