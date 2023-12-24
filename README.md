@@ -1,2 +1,1 @@
-# HarvardX CS50AI
-Projects
+# HarvardX CS50AI Projects
