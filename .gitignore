@@ -14,5 +14,8 @@ shopping - Copy.py
 # ignore files in nim directory
 nim - Copy.py
 
+# ignore files in traffic directory
+gtsrb/
+traffic - Copy.py
 
 
