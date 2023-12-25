@@ -11,5 +11,8 @@ generate - Copy.py
 # ignore files in shopping directory
 shopping - Copy.py
 
+# ignore files in nim directory
+nim - Copy.py
+
 
 
