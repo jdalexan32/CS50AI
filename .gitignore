@@ -18,4 +18,7 @@ nim - Copy.py
 gtsrb/
 traffic - Copy.py
 
+# ignore files in parser directory
+parser - Copy.py
+sentences.txt
 
